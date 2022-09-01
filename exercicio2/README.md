@@ -1,4 +1,4 @@
-# Exercício 2
+ Exercício 2
 
 Com os arrays criados, agora vamos observar os arrays. Faça o que se pede abaixo, utilizando `console.log()`:
 
